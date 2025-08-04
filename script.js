@@ -7,4 +7,4 @@ data-lcw-version="prod"
 data-org-id="e939f707-c636-f011-be50-002248e163c4" 
 data-org-url="https://m-e939f707-c636-f011-be50-002248e163c4.au.omnichannelengagementhub.com" async></script>
 console.log('Copilot Studio Chat Bot Test loaded.');
-console.log('Copilot Studio Chat Bot Test loaded.');
+
